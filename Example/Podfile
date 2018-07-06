@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LJBorderView_Example' do
+  pod 'LJBorderView', :path => '../'
+
+  target 'LJBorderView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
