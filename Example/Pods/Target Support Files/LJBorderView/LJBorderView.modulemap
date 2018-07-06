@@ -1,0 +1,6 @@
+framework module LJBorderView {
+  umbrella header "LJBorderView-umbrella.h"
+
+  export *
+  module * { export * }
+}

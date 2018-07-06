@@ -1,0 +1,22 @@
+{
+  "name": "LJBorderView",
+  "version": "0.1.0",
+  "summary": "A short description of LJBorderView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/leishui513/LJBorderView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "leishui513": "yunfei12@leju.com"
+  },
+  "source": {
+    "git": "https://github.com/leishui513/LJBorderView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LJBorderView/Classes/**/*"
+}

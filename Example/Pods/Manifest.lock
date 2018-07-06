@@ -1,0 +1,16 @@
+PODS:
+  - LJBorderView (0.1.0)
+
+DEPENDENCIES:
+  - LJBorderView (from `../`)
+
+EXTERNAL SOURCES:
+  LJBorderView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LJBorderView: 52b8240adce65dc461d4f7e7c4d1f8c2cdbed51e
+
+PODFILE CHECKSUM: 344c78e7c03300b92e3ea3e44d396d6659c81ae4
+
+COCOAPODS: 1.5.3

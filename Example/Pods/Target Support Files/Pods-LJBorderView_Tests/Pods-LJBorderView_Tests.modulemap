@@ -1,0 +1,6 @@
+framework module Pods_LJBorderView_Tests {
+  umbrella header "Pods-LJBorderView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
